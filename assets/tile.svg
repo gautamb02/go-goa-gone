@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'>
+<rect width='120' height='120' fill='#f4f7fb'/>
+<g fill='none' stroke='#2d5ba8' stroke-width='3'>
+<rect x='1.5' y='1.5' width='117' height='117'/>
+<circle cx='60' cy='60' r='26'/>
+<path d='M60 14 L74 46 L106 60 L74 74 L60 106 L46 74 L14 60 L46 46 Z'/>
+<path d='M0 20 Q20 20 20 0 M100 0 Q100 20 120 20 M120 100 Q100 100 100 120 M20 120 Q20 100 0 100'/>
+</g>
+<circle cx='60' cy='60' r='9' fill='#2d5ba8'/>
+<g fill='#e3a92b'><circle cx='0' cy='0' r='7'/><circle cx='120' cy='0' r='7'/><circle cx='0' cy='120' r='7'/><circle cx='120' cy='120' r='7'/></g>
+<g fill='#2d5ba8'><circle cx='60' cy='22' r='3'/><circle cx='98' cy='60' r='3'/><circle cx='60' cy='98' r='3'/><circle cx='22' cy='60' r='3'/></g>
+</svg>
